@@ -2,6 +2,8 @@
 
 Frontend developer working with Vue, Nuxt, TypeScript and Node.js, mostly on data-heavy interfaces: dashboards, charts, graph visualisation and performance.
 
+Website: [evb-stack.com](https://evb-stack.com/en)
+
 ## EVB Viewer
 
 [EVB Viewer](https://github.com/evb0110/evb-viewer) is my open-source application for reading and editing PDF and DjVu files on macOS, Windows, Linux and the web. The desktop version adds OCR and annotation. It brings no AI of its own: a sidebar assistant runs on the user's ChatGPT or Claude subscription, and an MCP server exposes the same tools to outside agents.
