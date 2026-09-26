@@ -10,6 +10,12 @@ Website: [evb-stack.com](https://evb-stack.com/en)
 
 [Website](https://evb-viewer.com) · [Try it in the browser](https://web.evb-viewer.com)
 
+## EVB Player
+
+[EVB Player](https://github.com/evb0110/evb-player) is my offline media player for macOS, Windows, Linux and the browser. It turns folders of numbered videos or audio files into playlists that remember the position in every file, with several folders open in tabs and signed builds that update themselves (Electron, Nuxt, TypeScript).
+
+[Website](https://evb-player.vercel.app)
+
 ## Tools for humanities research
 
 - [Thompson Motif-Index](https://github.com/evb0110/thompson-motif-index): a searchable interface for all 47,431 motifs of Stith Thompson's Motif-Index of Folk Literature (Vue).
