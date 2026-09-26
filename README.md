@@ -1,6 +1,6 @@
 # Eugene Barsky
 
-Frontend developer working with Vue, Nuxt, TypeScript and Node.js, mostly on data-heavy interfaces: dashboards, charts, graph visualisation and performance.
+Software developer working with Vue, Nuxt, TypeScript and Node.js, mostly on data-heavy interfaces: dashboards, charts, graph visualisation and performance.
 
 Website: [evb-stack.com](https://evb-stack.com/en)
 
