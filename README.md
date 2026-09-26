@@ -1,12 +1,12 @@
 # Eugene Barsky
 
-Software developer working with Vue, Nuxt, TypeScript and Node.js, mostly on data-heavy interfaces: dashboards, charts, graph visualisation and performance.
+Software developer working with Vue, Nuxt, TypeScript and Node.js, mostly on data-heavy interfaces: dashboards, charts, graph visualisation and performance. I also build AI features: an in-app assistant and an MCP server for agents.
 
 Website: [evb-stack.com](https://evb-stack.com/en)
 
 ## EVB Viewer
 
-[EVB Viewer](https://github.com/evb0110/evb-viewer) is my open-source application for reading and editing PDF and DjVu files on macOS, Windows, Linux and the web. The desktop version adds OCR and annotation. It brings no AI of its own: a sidebar assistant runs on the user's ChatGPT or Claude subscription, and an MCP server exposes the same tools to outside agents.
+[EVB Viewer](https://github.com/evb0110/evb-viewer) is my open-source application for reading and editing PDF and DjVu files on macOS, Windows, Linux and the web. The desktop version adds OCR and annotation. Its main feature is the AI assistant I built into it: it answers questions about the open document in minutes that would otherwise take hours of tedious reading, and it does the manual work too, such as rebuilding a book's outline from the printed table of contents or finding every mention of a term across a scanned volume. It runs on the user's own ChatGPT or Claude subscription through the Codex app-server and the Claude Agent SDK, so the app ships no API key of its own. The same tools, about 28 of them, are exposed through a local MCP server, so Claude Code, Cursor or any MCP client can drive the viewer.
 
 [Website](https://evb-viewer.com) · [Try it in the browser](https://web.evb-viewer.com)
 
